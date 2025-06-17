@@ -62,7 +62,6 @@ Mass++ 4.0 gold (stable) version
     * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)  
 * old version  
   * [\~4.0 beta2](https://github.com/masspp/mspp4)  
-  * \[2.7.5\]()  
-    * Under preparation
+  * [2.7.5](https://github.com/masspp/mspp2.7.5)  
 
 ## About us

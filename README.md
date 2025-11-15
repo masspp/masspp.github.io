@@ -10,11 +10,11 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 
 ## Downloads
 
-### Latest version
+### Current (Latest) version
 
 * Mass++4 ver.1.0.0 (a.k.a. Mass++ ver.4 Gold (stable) version)
 
-### Previous version
+### Previous versions
 
 * Mass++4 ver.0.2.1 (a.k.a. Mass++ ver.4 beta2)
 * Mass++4 ver.0.2.0 (a.k.a. Mass++ ver.4 beta) 
@@ -59,10 +59,10 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 ## Repositories
 
 * current version  
-  * ver. 4.0 gold (stable)  
+  * Mass++4 ver.1.0.0 (a.k.a. ver. 4.0 gold (stable))  
     * [mspp4-core](https://github.com/masspp/mspp4-core)  
     * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)  
-* old version  
+* previous versions  
   * [\~4.0 beta2](https://github.com/masspp/mspp4)  
   * [2.7.5](https://github.com/masspp/mspp2.7.5)  
 

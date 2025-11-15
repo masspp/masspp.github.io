@@ -63,7 +63,7 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
     * [mspp4-core](https://github.com/masspp/mspp4-core)  
     * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)  
 * previous versions  
-  * [\~4.0 beta2](https://github.com/masspp/mspp4)  
-  * [2.7.5](https://github.com/masspp/mspp2.7.5)  
+  * [\~ver.4.0 beta2](https://github.com/masspp/mspp4)  
+  * [ver.2.7.5](https://github.com/masspp/mspp2.7.5)  
 
 ## About us

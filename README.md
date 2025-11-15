@@ -12,7 +12,7 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 
 ### Latest version
 
-Mass++4 ver.1.0.0 (a.k.a. Mass++ ver.4 Gold (stable) version)
+* Mass++4 ver.1.0.0 (a.k.a. Mass++ ver.4 Gold (stable) version)
 
 ### Previous version
 

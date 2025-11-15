@@ -68,4 +68,4 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 
 ## About us
 
-Mass++ Users Group (https://mspp.ninja/)
+Mass++ Users Group ([https://mspp.ninja/?lang=en_us](https://mspp.ninja/?lang=en_us))

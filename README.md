@@ -23,15 +23,15 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 
 ## Release notes
 
-* 2025/xx/xx: Version 4.0 gold release  
+* 2025/xx/xx: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) release  
   * Updated whole system to apply new concept  
   * Re-implemented basic functions  
-* 2021/12/04: Version 4.0 beta2 release  
+* 2021/12/04: Mass++4 ver.0.2.1 (Mass++ ver.4.0 beta2) release  
   * [Bug-fixed](https://mspp.ninja/2021/12/installers-of-mass-ver-4-beta-2-are-released/) for beta version  
     * To display precursor ion in MS/MS spectra properly  
     * To execute peptide identification process from Project tab properly  
     * To generate peak list of peptide identification properly for macOS/Linux  
-* 2020/06/08: Version 4.0 beta release  
+* 2020/06/08: Mass++4 ver.0.2.0 (Mass++ ver.4.0 beta) release  
   * Added [some features from alpha version](https://mspp.ninja/2020/11/feature-comparison-of-ver-4-alpha-and-ver-4-beta/)  
     * Run external applications / Data exchange  
     * Data annotation view  
@@ -41,7 +41,7 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
       * Using Comet ver. 2019.01 rev. 5 (only for Windows)  
     * File support  
       * mzML, MGF, pepXML (manual)  
-* 2019/09/17: Version 4.0 alpha release  
+* 2019/09/17: Mass++4 ver.1.0.0 (Mass++ ver.4.0 alpha) release  
   * Released new version for multi platform  
   * Implemented basic functions  
     * Spectrum/Chromatograms view  
@@ -59,15 +59,15 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 ## Repositories
 
 * current version  
-  * Mass++4 ver.1.0.0 (a.k.a. ver. 4.0 gold (stable))  
+  * Mass++4 ver.1.0.0 (a.k.a. ver. 4.0 Gold (stable))  
     * [mspp4-core](https://github.com/masspp/mspp4-core)  
     * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)
     * [api-sample](https://github.com/masspp/api-sample) (Sample codes for data processing API)
 
 * previous versions  
-  * [\~ver.4.0 beta2](https://github.com/masspp/mspp4)  
+  * [\~4 ver.0.2.1 (ver.4.0 beta2)](https://github.com/masspp/mspp4)  
   * [ver.2.7.5](https://github.com/masspp/mspp2.7.5)  
 
 ## About us
 
-Mass++ Users Group ([https://mspp.ninja/?lang=en_us](https://mspp.ninja/?lang=en_us))
+See the pages of Mass++ Users Group ([https://mspp.ninja/?lang=en_us](https://mspp.ninja/?lang=en_us))

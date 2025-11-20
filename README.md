@@ -60,7 +60,7 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' for future
     * OS support  
       * Windows, macOS
 
-## Repositories
+## Source code repositories
 
 * current version  
   * Mass++4 ver.1.0.0 (a.k.a. ver. 4.0 Gold (stable))  

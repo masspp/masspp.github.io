@@ -12,7 +12,7 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' for future
 
 なお、今後のバージョン管理とVer.2.7系列との区別のために、「Mass++ Ver.4 Gold」は「Mass++4 Ver.1.0.0」と改称しました。今後はこちらの名称を主に使用してきます。
 
-## Binary (installer) downloads
+## Binary (installer) package downloads
 
 ### Current (Latest) version
 

@@ -8,10 +8,6 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 
 Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon release for future version management and to distinguish it from the Ver.2.7 series. We will primarily use this name going forward.
 
-私たちは、高速スペクトルビューア「Mass++」を開発し、これまでに全バージョン合計でおよそ2万回のダウンロードを記録してきました。現在開発中のバージョンはVer.4で、オープンソースソフトウェアとして、新たにJava言語で書き直し、複数のOSに対応できるようにしました。今回、これまで開発してきた様々な機能を整理し、Ver.4の正式リリース（Ver.4 Gold）として、基本的な機能、特にスペクトルやクロマトグラムの表示に関する機能（スペクトル／クロマトグラムのズーム、ピークのラベル付け、スペクトル／クロマトグラムの画像ファイルへのエクスポート、m/z値や保持時間値によるスペクトルの絞り込み機能など）を中心にパッケージを作成しました。このVer.4 Goldパッケージは4つのOS環境(Windows、MacOS、Linux Debian/Ubuntu、Linux RPM)でリリースされます。
-
-なお、今後のバージョン管理とVer.2.7系列との区別のために、「Mass++ Ver.4 Gold」は「Mass++4 Ver.1.0.0」と改称しました。今後はこちらの名称を主に使用してきます。
-
 ## Binary (installer) package downloads
 
 ### Current (Latest) version

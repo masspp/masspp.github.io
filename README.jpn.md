@@ -27,12 +27,12 @@ This page provides …
   * Updated whole system to apply new concept  
   * 基本機能の書き直しと再実装  
 * 2021/12/04: Mass++4 ver.0.2.1 (Mass++ ver.4.0 beta2) リリース  
-  * [バグ修正]([https://mspp.ninja/2021/12/installers-of-mass-ver-4-beta-2-are-released/](https://mspp.ninja/2021/12/ver-4-beta2%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%a9%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99/) ベータ版に対する修正  
+  * [バグ修正]([https://mspp.ninja/2021/12/ver-4-beta2%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%a9%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99/](https://mspp.ninja/2021/12/ver-4-beta2%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%a9%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99/) ベータ版に対する修正  
     * MS/MSスペクトルのプリカーサーイオン質量が、Raw data タブのSpectrumViewTableに表示されるようにした。
     * Projectタブを開いているときに、MS/MSスペクトルに対するペプチド同定処理が実行できるようにした。
     * macOS/Linux版で、Projectタブを開いて行うペプチド同定処理の過程で、ピークリストが生成されるようにした。
 * 2020/06/08: Mass++4 ver.0.2.0 (Mass++ ver.4.0 beta) リリース  
-  * アルファ版から [機能を追加]([https://mspp.ninja/2020/11/feature-comparison-of-ver-4-alpha-and-ver-4-beta/](https://mspp.ninja/2020/11/ver-4-alpha%e3%81%a8ver-4-beta%e3%81%ae%e6%a9%9f%e8%83%bd%e6%af%94%e8%bc%83/)  
+  * アルファ版から [機能を追加]([https://mspp.ninja/2020/11/ver-4-alpha%e3%81%a8ver-4-beta%e3%81%ae%e6%a9%9f%e8%83%bd%e6%af%94%e8%bc%83/](https://mspp.ninja/2020/11/ver-4-alpha%e3%81%a8ver-4-beta%e3%81%ae%e6%a9%9f%e8%83%bd%e6%af%94%e8%bc%83/)  
     * 外部アプリケーション実行・データ交換
     * データ・アノテーション表示  
     * ピークピッキング

@@ -1,5 +1,7 @@
 # Mass++: An Open Source MS Data Viewer
 
+[Japanese language page](./README.jpn.html)
+
 This page provides …
 
 ## About Mass++

@@ -20,7 +20,7 @@ This page provides …
 
 ### 過去のバージョン
 
-#### Ver.4（Mass++4）系列
+<ins>**Ver.4（Mass++4）系列**</ins>
 * **Mass++4 ver.0.2.1** （旧名 Mass++ ver.4 beta2）
 * **Mass++4 ver.0.2.0** （旧名 Mass++ ver.4 beta）
 * **Mass++4 ver.0.1.0** （旧名 Mass++ ver.4 alpha）
@@ -28,7 +28,7 @@ This page provides …
 
 ***
 
-#### Ver.2系列
+<ins>**Ver.2系列**</ins>
 * **Mass++ ver.2.7.5**
   * Mass++はver.2.7.4まではソースコードを公開せずに実行ファイルのみを公開してきました。ver.2.7.5は、ver.2.7.4から一部の機能を削除してオープンソース版に変更したものです。
 * **Mass++ ver.2.7.4**

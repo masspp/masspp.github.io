@@ -21,7 +21,7 @@ This page provides …
 
 ### 過去のバージョン
 
-#### <ins>Ver.4（Mass++4）系列</ins>  -->  [ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）
+#### <ins>Ver.4（Mass++4）系列（ver.0.2.1以前）</ins>  -->  [ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）
 * **Mass++4 ver.0.2.1** （旧名 Mass++ ver.4 beta2）
 * **Mass++4 ver.0.2.0** （旧名 Mass++ ver.4 beta）
 * **Mass++4 ver.0.1.0** （旧名 Mass++ ver.4 alpha）

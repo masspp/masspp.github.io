@@ -23,6 +23,18 @@ This page provides …
 * Mass++4 ver.0.1.0 （旧名 Mass++ ver.4 alpha）  
 * Mass++ ver.2.7.5
 
+## ソースコード・リポジトリ
+
+* 現行（最新）バージョン  
+  * Mass++4 ver.1.0.0 （旧名  ver. 4.0 Gold (正式版・安定版)  
+    * [mspp4-core](https://github.com/masspp/mspp4-core)  
+    * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)
+    * [api-sample](https://github.com/masspp/api-sample) （data processing APIについてのサンプルコード）
+
+* 過去のバージョン  
+  * [\~Mass++4 ver.0.2.1 (ver.4.0 beta2)](https://github.com/masspp/mspp4)  
+  * [Mass++ ver.2.7.5](https://github.com/masspp/mspp2.7.5)  
+
 ## リリースノート
 
 * 2025/xx/xx: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) リリース  
@@ -59,18 +71,6 @@ This page provides …
       * mzML, MGF, pepXML (manual)  
     * 対応OS
       * Windows, macOS
-
-## ソースコード・リポジトリ
-
-* 現行（最新）バージョン  
-  * Mass++4 ver.1.0.0 （旧名  ver. 4.0 Gold (正式版・安定版)  
-    * [mspp4-core](https://github.com/masspp/mspp4-core)  
-    * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)
-    * [api-sample](https://github.com/masspp/api-sample) （data processing APIについてのサンプルコード）
-
-* 過去のバージョン  
-  * [\~Mass++4 ver.0.2.1 (ver.4.0 beta2)](https://github.com/masspp/mspp4)  
-  * [Mass++ ver.2.7.5](https://github.com/masspp/mspp2.7.5)  
 
 ## 開発者について
 

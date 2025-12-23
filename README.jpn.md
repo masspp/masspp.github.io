@@ -14,19 +14,19 @@ This page provides …
 
 ### 現行（最新）バージョン
 
-#### <ins>Ver.4（Mass++4）系列（最新ビルド）</ins>：  [ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）
+#### <ins>Ver.4（Mass++4）系列（最新ビルド）</ins> `[ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）`
  * **Mass++4 ver.1.0.0** （旧名 Mass++ ver.4 Gold（正式版））
    * Mass++4は「Mass++ ver.4」として開発が進められてきたバージョンで、ver.2.7.4のユーザーがまだ多く混乱を避けるのが望ましいこと、機能的に大きく違いがあることなどから、ソフト名ごと改称したものです。「Mass++4 ver. 1.0.0」は、開発時に「Mass++ ver.4 Gold（正式版）」と呼んでいたバージョンと同一です。現在はこのバージョンのみ開発が行われています。
 
 
 ### 過去のバージョン
 
-#### <ins>Ver.4（Mass++4）系列（ver.0.2.1以前）</ins>：  [ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）
+#### <ins>Ver.4（Mass++4）系列（ver.0.2.1以前）</ins> `[ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）`
 * **Mass++4 ver.0.2.1** （旧名 Mass++ ver.4 beta2）
 * **Mass++4 ver.0.2.0** （旧名 Mass++ ver.4 beta）
 * **Mass++4 ver.0.1.0** （旧名 Mass++ ver.4 alpha）
 
-#### <ins>Ver.2系列</ins>：  [ダウンロードページ](https://mspp.ninja/mass-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows版のみ）
+#### <ins>Ver.2系列</ins> `[ダウンロードページ](https://mspp.ninja/mass-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows版のみ）`
 * **Mass++ ver.2.7.5**
   * Mass++はver.2.7.4まではソースコードを公開せずに実行ファイルのみを公開してきました。ver.2.7.5は、ver.2.7.4から一部の機能を削除してオープンソース版に変更したものです。
 * **Mass++ ver.2.7.4**

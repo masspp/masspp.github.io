@@ -1,4 +1,4 @@
-# Mass++: オープンソース・MSデータビューア
+# Mass++/Mass++4: オープンソース・MSデータビューア
 
 [Jump to English page](./)
 
@@ -20,12 +20,12 @@ This page provides …
 
 ### 過去のバージョン
 
-#### <ins>Ver.4（Mass++4）系列</ins>  -->  [ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/)
+#### <ins>Ver.4（Mass++4）系列</ins>  -->  [ダウンロードページ](https://mspp.ninja/mass4-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows, macOS, Linux RPM, Linux Debian/Ubuntu版）
 * **Mass++4 ver.0.2.1** （旧名 Mass++ ver.4 beta2）
 * **Mass++4 ver.0.2.0** （旧名 Mass++ ver.4 beta）
 * **Mass++4 ver.0.1.0** （旧名 Mass++ ver.4 alpha）
 
-#### <ins>Ver.2系列</ins>  --> [ダウンロードページ](https://mspp.ninja/mass-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) 
+#### <ins>Ver.2系列</ins>  --> [ダウンロードページ](https://mspp.ninja/mass-%e5%ae%9f%e8%a1%8c%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89/) （Windows版のみ）
 * **Mass++ ver.2.7.5**
   * Mass++はver.2.7.4まではソースコードを公開せずに実行ファイルのみを公開してきました。ver.2.7.5は、ver.2.7.4から一部の機能を削除してオープンソース版に変更したものです。
 * **Mass++ ver.2.7.4**
@@ -42,7 +42,8 @@ This page provides …
 
 * 過去のバージョン  
   * [\~Mass++4 ver.0.2.1 (ver.4.0 beta2)](https://github.com/masspp/mspp4)  
-  * [Mass++ ver.2.7.5](https://github.com/masspp/mspp2.7.5)  
+  * [Mass++ ver.2.7.5](https://github.com/masspp/mspp2.7.5)
+  * ver.2.7.4はクローズドソース（ソースコード非公開）です。
 
 ## リリースノート
 
@@ -66,7 +67,7 @@ This page provides …
       * mzML, MGF, pepXML (manual)
     * 対応OS
       * Windows, macOS, Linux Debian/Ubuntu, Linux RPM
-* 2019/09/17: Mass++4 ver.1.0.0 (Mass++ ver.4.0 alpha) リリース  
+* 2019/09/17: Mass++4 ver.0.1.0 (Mass++ ver.4.0 alpha) リリース  
   * 複数OS対応の新バージョンリリース開始
   * 実装した基本機能
     * スペクトル・クロマトグラム表示

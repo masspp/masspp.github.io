@@ -36,7 +36,7 @@ This page provides …
 ## ソースコード・リポジトリ
 
 * 現行（最新）バージョン  
-  * **Mass++4 ver.1.0.0** （旧名  ver. 4.0 Gold (正式版・安定版)  
+  * **Mass++4 ver.1.0.0** （旧名  ver. 4.0 Gold（正式版・安定版））  
     * [mspp4-core](https://github.com/masspp/mspp4-core)  
     * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)
     * [api-sample](https://github.com/masspp/api-sample) （data processing APIについてのサンプルコード）

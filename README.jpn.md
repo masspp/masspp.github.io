@@ -56,7 +56,7 @@ This page provides …
     * Projectタブを開いているときに、MS/MSスペクトルに対するペプチド同定処理が実行できるようにした。
     * macOS/Linux版で、Projectタブを開いて行うペプチド同定処理の過程で、ピークリストが生成されるようにした。
 * 2020/06/08: Mass++4 ver.0.2.0 (Mass++ ver.4.0 beta) リリース  
-  * アルファ版から [機能を追加]([https://mspp.ninja/2020/11/ver-4-alpha%e3%81%a8ver-4-beta%e3%81%ae%e6%a9%9f%e8%83%bd%e6%af%94%e8%bc%83/](https://mspp.ninja/2020/11/ver-4-alpha%e3%81%a8ver-4-beta%e3%81%ae%e6%a9%9f%e8%83%bd%e6%af%94%e8%bc%83/)  
+  * アルファ版から [機能を追加](https://mspp.ninja/2020/11/ver-4-alpha%e3%81%a8ver-4-beta%e3%81%ae%e6%a9%9f%e8%83%bd%e6%af%94%e8%bc%83/)  
     * 外部アプリケーション実行・データ交換
     * データ・アノテーション表示  
     * ピークピッキング

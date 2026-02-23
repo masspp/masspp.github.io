@@ -27,7 +27,7 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
 
 #### <ins>Ver.2 Series</ins> [Download page](https://mspp.ninja/) (Windows version only)
 
-* <ins>Versions 2.7.4 and 2.7.5 are both based on outdated development environments, so**we cannot provide any bug fixes or support. Use at your own risk**.</ins>
+* <ins>Versions 2.7.4 and 2.7.5 are both based on outdated development environments, so **we cannot provide any bug fixes or support. Use at your own risk**.</ins>
 
 * **Mass++ ver.2.7.5**
   * Mass++ has released only executable files as a closed-source software up to version 2.7.4. Version 2.7.5 is an open-source version created by removing some features from version 2.7.4. 
@@ -36,6 +36,18 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
   * Mass++ version 2.7.4, the final release in the ver.2 series, includes numerous features such as analysis functions and is still used by many users today. This file is identical to the one distributed on the [website](https://www.shimadzu.co.jp/mass-research/soft.html) of Shimadzu Corporation's Koichi Tanaka Mass Spectrometry Research Laboratory until March 31, 2025. **Shimadzu Corporation is not involved in any way with the distribution on this site** and <ina>provides no support whatsoever for this version</ins>.
 
 
+## Source code repositories
+
+* current (latest) version  
+  * Mass++4 ver.1.0.0 (a.k.a. ver. 4.0 Gold (stable))  
+    * [mspp4-core](https://github.com/masspp/mspp4-core)  
+    * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)
+    * [api-sample](https://github.com/masspp/api-sample) (Sample codes for data processing API)
+
+* previous versions  
+  * [\~Mass++4 ver.0.2.1 (ver.4.0 beta2)](https://github.com/masspp/mspp4)  
+  * [Mass++ ver.2.7.5](https://github.com/masspp/mspp2.7.5)
+  * Version 2.7.4 is closed-source (source code not publicly available).
 
 
 ## Release notes
@@ -73,18 +85,9 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
     * OS support  
       * Windows, macOS
 
-## Source code repositories
-
-* current version  
-  * Mass++4 ver.1.0.0 (a.k.a. ver. 4.0 Gold (stable))  
-    * [mspp4-core](https://github.com/masspp/mspp4-core)  
-    * [mspp4-desktop](https://github.com/masspp/mspp4-desktop)
-    * [api-sample](https://github.com/masspp/api-sample) (Sample codes for data processing API)
-
-* previous versions  
-  * [\~Mass++4 ver.0.2.1 (ver.4.0 beta2)](https://github.com/masspp/mspp4)  
-  * [Mass++ ver.2.7.5](https://github.com/masspp/mspp2.7.5)  
-
 ## About us
 
 See the pages of Mass++ Users Group ([https://mspp.ninja/?lang=en_us](https://mspp.ninja/?lang=en_us))
+
+
+Page updated: XXXX. XX, 2026

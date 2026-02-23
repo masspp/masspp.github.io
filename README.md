@@ -1,33 +1,37 @@
-# Mass++: An Open Source MS Data Viewer
+# Mass++/Mass++4: An Open Source MS Data Viewer
 
 [Jump to Japanese page](./README.jpn.html)
 
-This page provides …
-
-## About Mass++
+## About Mass++/Mass++4
 
 We have been developing a fast spectrum viewer, Mass++, which has been downloaded about 20000 times to date in total of all releases. The version currently under development is Ver.4, which is open-source software, newly rewritten in the Java language to be compatible with multiple operating systems. This time, we have organized the various functions that have been developed to date and generated a package as the official release of Ver. 4 (Ver.4 Gold), focusing on basic functions, especially those related to the display of spectra and chromatograms, such as zooming of spectra/chromatograms, labeling of peaks, exporting of spectra/chromatograms to image files, and functions to narrow down spectra by m/z values and retention time values. This Ver.4 Gold package will be released in four operating system environments: Windows, MacOS, Linux Debian/Ubuntu, Linux RPM.
 
 Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon release for future version management and to distinguish it from the Ver.2.7 series. We will primarily use this name going forward.
 
-## Binary package (installer) downloads
+## Binary package (Installer) downloads
 
 ### Current (Latest) version
 
+#### <ins>Ver.4 (Mass++4) Series (Latest Build)</ins> [Download page](https://mspp.ninja/) (Windows, macOS, Linux RPM, Linux Debian/Ubuntu versions)
+
 * Mass++4 ver.1.0.0 (a.k.a. Mass++ ver.4 Gold (stable) version)
- * Mass++4 is the version that had been under development as “Mass++ ver.4.” It was renamed for several reasons: to avoid confusion since many users still use ver.2.7.4, and because there are significant functional differences. “Mass++4 ver. 1.0.0” is identical to the version referred to during development as “Mass++ ver.4 Gold (Final Release)”. Development is currently focused solely on this version.
+  * Mass++4 is the version that had been under development as “Mass++ ver.4.” It was renamed for several reasons: to avoid confusion since many users still use ver.2.7.4, and because there are significant functional differences. “Mass++4 ver. 1.0.0” is identical to the version referred to during development as “Mass++ ver.4 Gold (Final Release)”. Development is currently focused solely on this version.
 
 ### Previous versions
 
+#### <ins>Ver.4 (Mass++4) Series (ver.0.2.1 and earlier)</ins> [Download page](https://mspp.ninja/) (Windows, macOS, Linux RPM, Linux Debian/Ubuntu versions)
 
 * Mass++4 ver.0.2.1 (a.k.a. Mass++ ver.4 beta2)
 * Mass++4 ver.0.2.0 (a.k.a. Mass++ ver.4 beta) 
-* Mass++4 ver.0.1.0 (a.k.a. Mass++ ver.4 alpha)  
+* Mass++4 ver.0.1.0 (a.k.a. Mass++ ver.4 alpha)
+
+#### <ins>Ver.2 Series</ins> [Download page](https://mspp.ninja/) (Windows version only)
+
 * Mass++ ver.2.7.5
 
 ## Release notes
 
-* 2025/xx/xx: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) release  
+* 2026/xx/xx: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) release  
   * Updated whole system to apply new concept  
   * Re-implemented basic functions  
 * 2021/12/04: Mass++4 ver.0.2.1 (Mass++ ver.4.0 beta2) release  

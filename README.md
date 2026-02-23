@@ -10,13 +10,15 @@ We have been developing a fast spectrum viewer, Mass++, which has been downloade
 
 Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon release for future version management and to distinguish it from the Ver.2.7 series. We will primarily use this name going forward.
 
-## Binary (installer) package downloads
+## Binary package (installer) downloads
 
 ### Current (Latest) version
 
 * Mass++4 ver.1.0.0 (a.k.a. Mass++ ver.4 Gold (stable) version)
+ * Mass++4 is the version that had been under development as “Mass++ ver.4.” It was renamed for several reasons: to avoid confusion since many users still use ver.2.7.4, and because there are significant functional differences. “Mass++4 ver. 1.0.0” is identical to the version referred to during development as “Mass++ ver.4 Gold (Final Release)”. Development is currently focused solely on this version.
 
 ### Previous versions
+
 
 * Mass++4 ver.0.2.1 (a.k.a. Mass++ ver.4 beta2)
 * Mass++4 ver.0.2.0 (a.k.a. Mass++ ver.4 beta) 

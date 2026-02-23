@@ -47,7 +47,7 @@
 
 ## リリースノート
 
-* 2026/xx/xx: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) リリース  
+* 2026/02/23: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) リリース  
   * Updated whole system to apply new concept  
   * 基本機能の書き直しと再実装  
 * 2021/12/04: Mass++4 ver.0.2.1 (Mass++ ver.4.0 beta2) リリース  

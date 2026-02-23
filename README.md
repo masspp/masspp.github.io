@@ -33,7 +33,7 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
   * Mass++ has released only executable files as a closed-source software up to version 2.7.4. Version 2.7.5 is an open-source version created by removing some features from version 2.7.4. 
 
 * **Mass++ ver.2.7.4**
-  * Mass++ version 2.7.4, the final release in the ver.2 series, includes numerous features such as analysis functions and is still used by many users today. This file is identical to the one distributed on the [website](https://www.shimadzu.co.jp/mass-research/soft.html) of Shimadzu Corporation's Koichi Tanaka Mass Spectrometry Research Laboratory until March 31, 2025. **Shimadzu Corporation is not involved in any way with the distribution on this site** and <ina>provides no support whatsoever for this version</ins>.
+  * Mass++ version 2.7.4, the original final version of the ver.2 series, includes numerous features such as analysis functions and is still used by many users today. This file is identical to the one distributed on the [website](https://www.shimadzu.co.jp/mass-research/soft.html) of Shimadzu Corporation's Koichi Tanaka Mass Spectrometry Research Laboratory until March 31, 2025. **Shimadzu Corporation is not involved in any way with the distribution on this site** and <ins>provides no support whatsoever for this version</ins>.
 
 
 ## Source code repositories

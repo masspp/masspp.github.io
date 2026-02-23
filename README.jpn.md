@@ -87,3 +87,4 @@
 Mass++ユーザー会のweb ([https://mspp.ninja/](https://mspp.ninja/)) を参照してください。
 
 
+Page updated: XXXX. XX, 2026

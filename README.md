@@ -52,7 +52,7 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
 
 ## Release notes
 
-* 2026/xx/xx: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) release  
+* 2026/02/23: Mass++4 ver.1.0.0 (Mass++ ver.4.0 Gold) release  
   * Updated whole system to apply new concept  
   * Re-implemented basic functions  
 * 2021/12/04: Mass++4 ver.0.2.1 (Mass++ ver.4.0 beta2) release  

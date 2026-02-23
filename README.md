@@ -12,20 +12,20 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
 
 ### Current (Latest) version
 
-#### <ins>Ver.4 (Mass++4) Series (Latest Build)</ins> [Download page](https://mspp.ninja/) (Windows, macOS, Linux RPM, Linux Debian/Ubuntu versions)
+#### <ins>Ver.4 (Mass++4) Series (Latest Build)</ins> [Download page](https://mspp.ninja/mass4-executable-file-download/) (Windows, macOS, Linux RPM, Linux Debian/Ubuntu versions)
 
 * Mass++4 ver.1.0.0 (a.k.a. Mass++ ver.4 Gold (stable) version)
   * Mass++4 is the version that had been under development as “Mass++ ver.4.” It was renamed for several reasons: to avoid confusion since many users still use ver.2.7.4, and because there are significant functional differences. “Mass++4 ver. 1.0.0” is identical to the version referred to during development as “Mass++ ver.4 Gold (Final Release)”. Development is currently focused solely on this version.
 
 ### Previous versions
 
-#### <ins>Ver.4 (Mass++4) Series (ver.0.2.1 and earlier)</ins> [Download page](https://mspp.ninja/) (Windows, macOS, Linux RPM, Linux Debian/Ubuntu versions)
+#### <ins>Ver.4 (Mass++4) Series (ver.0.2.1 and earlier)</ins> [Download page](https://mspp.ninja/mass4-executable-file-download/) (Windows, macOS, Linux RPM, Linux Debian/Ubuntu versions)
 
 * Mass++4 ver.0.2.1 (a.k.a. Mass++ ver.4 beta2)
 * Mass++4 ver.0.2.0 (a.k.a. Mass++ ver.4 beta) 
 * Mass++4 ver.0.1.0 (a.k.a. Mass++ ver.4 alpha)
 
-#### <ins>Ver.2 Series</ins> [Download page](https://mspp.ninja/) (Windows version only)
+#### <ins>Ver.2 Series</ins> [Download page](https://mspp.ninja/mass-ver-2-executable-file-download/) (Windows version only)
 
 * <ins>Versions 2.7.4 and 2.7.5 are both based on outdated development environments, so **we cannot provide any bug fixes or support. Use at your own risk**.</ins>
 

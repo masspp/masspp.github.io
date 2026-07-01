@@ -90,4 +90,4 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
 See the pages of Mass++ Users Group ([https://mspp.ninja/?lang=en_us](https://mspp.ninja/?lang=en_us))
 
 
-Page updated: XXXX. XX, 2026
+Page updated: July 1, 2026

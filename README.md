@@ -70,7 +70,7 @@ Note that 'Mass++ Ver.4 Gold' has been renamed to 'Mass++4 Ver.1.0.0' upon relea
       * Using Comet ver. 2019.01 rev. 5 (only for Windows)  
     * File support  
       * mzML, MGF, pepXML (manual)  
-* 2019/09/17: Mass++4 ver.1.0.0 (Mass++ ver.4.0 alpha) release  
+* 2019/09/17: Mass++4 ver.0.1.0 (Mass++ ver.4.0 alpha) release  
   * Released new version for multi platform  
   * Implemented basic functions  
     * Spectrum/Chromatograms view  
